@@ -1,3 +1,3 @@
 - 👋 Hi, I’m BAHRİ İLHAN
 - 📫 How to reach me ilhanbahri4@gmail.com
-- I am training to be a Front-End developer.
+
