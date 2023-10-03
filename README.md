@@ -16,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahri20&show_icons=true&bg_color=1d285e&locale=en" alt="bahri20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahri20&" alt="bahri20" /></p>
+![snake gif](https://github.com/Bahri20/Bahri20/blob/output/github-contribution-grid-snake.gif)
