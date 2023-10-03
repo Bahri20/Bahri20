@@ -1,7 +1,6 @@
 - Hi, I’m BAHRİ İLHAN 
-- How to reach me ilhanbahri4@gmail.com
 - Computer engineering student at Bursa Technical University
-- I am currently learning JAVA
+- 📫 How to reach me **ilhanbahri4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahri20&show_icons=true&locale=en&layout=compact" alt="bahri20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahri20&show_icons=true&bg_color=654343&locale=en" alt="bahri20" /></p>
